@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Study Session Picker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>📚 Study Session Picker</h1>
+
+    <input type="text" id="taskInput" placeholder="Enter a task...">
+    <button onclick="addTask()">Add Task</button>
+
+    <ul id="taskList"></ul>
+
+    <button onclick="pickTask()" class="pick">Pick What I Should Study</button>
+
+    <h2 id="chosenTask"></h2>
+
+    <h3 id="timer">25:00</h3>
+    <button onclick="startTimer()">Start 25 Min Focus</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
