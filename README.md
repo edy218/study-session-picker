@@ -1,4 +1,4 @@
-# study-session-picker
+## study-session-picker
 A simple web app that helps students:
 - Add study tasks
 - Randomly choose what to work on
@@ -11,8 +11,9 @@ A simple web app that helps students:
 - Pomodoro timer
 - Clean aesthetic UI
 
-## Tech Used
+## languages used
 - HTML
 - CSS
 - JavaScript
-
+## Try it in action
+https://edy218.github.io/study-session-picker/
