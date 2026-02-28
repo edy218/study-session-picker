@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #fceabb, #f8b500);
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pick {
+  background: #ff7e5f;
+  color: white;
+  border: none;
+}
+
+ul {
+  text-align: left;
+}
